@@ -2,4 +2,4 @@
 
 I created this little page for our daughter for her birthday. This site is based on a similar one I created for our son for his birthday. It uses the Giphy API to display some animated gifs she'll probably get a kick out of.
 
-<img src="https://media.giphy.com/media/3oEduU2JjgQUGKyNvG/giphy.gif" alt="Rainbow pony something" border="0" />
+![](https://media.giphy.com/media/3oEduU2JjgQUGKyNvG/giphy.gif)
