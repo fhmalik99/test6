@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 /*
 This code was inspired by Dana Martens' code on CodePen at https://codepen.io/drmartens/pen/Eweooq
@@ -15,8 +16,8 @@ h2 {
 }
 
 body {
-  font-family: 'Inconsolata', monospace;
-  font-size: 1.5rem;
+  font-family: 'Indie Flower', monospace;
+  font-size: 2rem;
   line-height: 1.3;
   color: black;
   background-color: snow;
