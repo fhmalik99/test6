@@ -1,0 +1,23 @@
+{
+  "name": "happy_bday_faith",
+  "version": "1.0.0",
+  "description": "A little birthday site for our daughter",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauljacobson/happy_bday_faith.git"
+  },
+  "keywords": [
+    "birthday",
+    "giphy"
+  ],
+  "author": "Paul Jacobson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauljacobson/happy_bday_faith/issues"
+  },
+  "homepage": "https://github.com/pauljacobson/happy_bday_faith#readme"
+}
